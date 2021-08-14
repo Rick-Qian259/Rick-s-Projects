@@ -1,0 +1,2 @@
+Your task is to develop a small web proxy server which can cache web pages.
+It is a very simple proxy server which only understands simple HTTP/1.1 GET-requests but can handle all kinds of objects - not just HTML pages, but also images.
