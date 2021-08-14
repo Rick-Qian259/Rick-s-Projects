@@ -1,0 +1,5 @@
+You are a software developer in an Emergency Service Center. Your team is building a system to help emergency call takers to organise ambulances for patients. Your team has designed and implemented part of the system.
+
+In this system, it will record the Name, Phone Number, Triage Level (a number indicates how serious the patient's condition, from 1 to 5) and Location for each patient. When one patient call Emergency Service Center, this system will assign a unique id to this patient.
+
+To make sure patients with higher triage level can be sent to the emergency department first, the waiting list will always give patients with higher triage level a higher priority. For patients has the same triage level, the patient who comes earlier should be assigned an ambulance first.
