@@ -1,0 +1,1 @@
+Write a program, translator, which will read a Hack Virtual Machine file and output a Hack Assembly Language translation of each Virtual Machine command.
