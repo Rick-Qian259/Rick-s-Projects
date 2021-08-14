@@ -1,0 +1,1 @@
+Write code to simulate a network of routers performing route advertisement using a Distance Vector routing protocol and then with poisoned reverse/route poisoning to improve the performance of the protocol. 
